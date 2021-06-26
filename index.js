@@ -11,7 +11,7 @@ async function getMarketPriceSerum() {
       "https://api.mainnet-beta.solana.com"
     );
     let marketAddress = new SolanaWeb3.PublicKey(
-      "Ep5kFPdPFvBqxp7Hp9C8WhMJPPidcC1FXXiKAgCfK6vy"
+      "EmyoFKQQyALv7mMDL681vV5oanPsLhFggvgJh5gE29vn"
     );
     let programId = new SolanaWeb3.PublicKey(
       "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
